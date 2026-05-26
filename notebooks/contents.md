@@ -1,4 +1,4 @@
-# Contenido del material
+# Contenido del directorio
 
 ## Sprint 1 - Python Básico I
 
