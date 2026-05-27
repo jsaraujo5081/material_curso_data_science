@@ -20,7 +20,7 @@
 * **S04_Manipulacion_Datos_II_Sesiones**: Caso de estudio sobre ventas de un operador turístico, para practicar funciones y métodos de manipulación de datos con Pandas y visualizaciones con Matplotlib.
 * **S04_Manipulacion_Datos_II_Ejercicios**: Ejercicios adicionales sobre datos simulados para repasar funciones y métodos de Pandas y Matplotlib.
 
-* ## Sprint 5 - Análisis Exploratorio de Datos (Tiempo estimado: 12 horas)
+## Sprint 5 - Análisis Exploratorio de Datos (Tiempo estimado: 12 horas)
 
 * **S05_Analisis_Exploratorio_Sesiones**: Caso de estudio sobre indicadores macoeconómicos por país provistos por el Banco Mundial, para practicar conceptos estadísticos asociados a descripción, inferencia y visualización de datos.
 * **S05_Analisis_Exploratorio_Ejercicios**: Ejercicios adicionales para una mayor comprensión de teoría estadística vinculada a Ley de los grandes números, Teorema del límite central y pruebas de hipótesis. 
