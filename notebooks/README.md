@@ -23,4 +23,8 @@
 ## Sprint 5 - Análisis Exploratorio de Datos (Tiempo estimado: 12 horas)
 
 * **S05_Analisis_Exploratorio_Sesiones**: Caso de estudio sobre indicadores macoeconómicos por país provistos por el Banco Mundial, para practicar conceptos estadísticos asociados a descripción, inferencia y visualización de datos.
-* **S05_Analisis_Exploratorio_Ejercicios**: Ejercicios adicionales para una mayor comprensión de teoría estadística vinculada a Ley de los grandes números, Teorema del límite central y pruebas de hipótesis. 
+* **S05_Analisis_Exploratorio_Ejercicios**: Ejercicios adicionales para una mayor comprensión de teoría estadística vinculada a Ley de los grandes números, Teorema del límite central y pruebas de hipótesis.
+
+## Sprint 6 - Repaso de Fundamentos de Python, Pandas y EDA (Tiempo estimado: 4 horas)
+
+* **S06_Repaso_Fundamentos_Sesiones**: Caso de estudio sobre ventas a nivel mundial de videojuegos, para prácticar habilidades en manejo de sintaxis del legunaje de programación, manipulación de datos y análisis exploratorio de datos.
