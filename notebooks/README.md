@@ -33,7 +33,7 @@
 ## Sprint 6 - Repaso de Fundamentos de Python, Pandas y EDA
 *(Tiempo estimado: 3 horas)*
 
-* **S06_Repaso_Fundamentos_Sesiones**: Caso de estudio sobre ventas a nivel mundial de videojuegos, para prácticar habilidades en manejo de sintaxis del legunaje de programación, manipulación de datos y análisis exploratorio de datos.
+* **S06_Repaso_Fundamentos_Sesiones**: Caso de estudio sobre ventas a nivel mundial de videojuegos, para practicar habilidades en manejo de sintaxis del legunaje de programación, manipulación de datos y análisis exploratorio de datos.
 
 ## Sprint 7 - Terminales y Servicios Web
 *(Tiempo estimado: 4 horas)*
