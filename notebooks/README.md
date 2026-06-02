@@ -44,9 +44,11 @@
 
 * **S07_Terminales_Servicios_Web_Sesiones**: Ejercicios a realizar de manera guiada sobre uso de terminales de comandos, ejecución de programas en Python y desarrollo de aplicaciones web.
 
-
 ### Sprint 8 - Bases de Datos y SQL
 *(Tiempo estimado: 7 horas)*
 
 * **S08_Bases_Datos_SQL_Sesiones**: Ejercicios a realizar de manera guiada sobre creación, manejo y consulta en bases de datos mediante lenguaje SQL.
-* **S08_Bases_Datos_SQL_ejercicios**: Caso de estudio sobre adquisición y retención de suscriptores en aplicación de servicio de musica vía streaming, para practicar habilidades en manejo de sintaxis del legunaje SQL, y estudiar embudos de entidades en negocios.
+* **S08_Bases_Datos_SQL_Ejercicios**: Caso de estudio sobre adquisición y retención de suscriptores en aplicación de servicio de musica vía streaming, para practicar habilidades en manejo de sintaxis del legunaje SQL, y estudiar embudos de entidades en negocios.
+
+## Fundamentos del aprendizaje computacional
+
