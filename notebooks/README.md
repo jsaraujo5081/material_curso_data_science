@@ -1,6 +1,6 @@
-# Contenido de este directorio
+# Contenido del Directorio Notebooks
 
-## Fundamentos de Python y Análisis de datos
+## Fundamentos de Python y Análisis de Datos
 
 ### Sprint 1 - Python Básico I
 *(Tiempo estimado: 6 horas)*
@@ -50,5 +50,9 @@
 * **S08_Bases_Datos_SQL_Sesiones**: Ejercicios a realizar de manera guiada sobre creación, manejo y consulta en bases de datos mediante lenguaje SQL.
 * **S08_Bases_Datos_SQL_Ejercicios**: Caso de estudio sobre adquisición y retención de suscriptores en aplicación de servicio de musica vía streaming, para practicar habilidades en manejo de sintaxis del legunaje SQL, y estudiar embudos de entidades en negocios.
 
-## Fundamentos del aprendizaje computacional
+## Fundamentos del Aprendizaje Computacional
 
+### Sprint 9 - Introducción al Aprendizaje Computacional
+*(Tiempo estimado: 5 horas)*
+
+* **S09_Intro_Aprendizaje_Computacional_Sesiones**: Caso de estudio para la creación de un modelo que pronostique la existencia de tumores malignos, para practicar conceptos básicos sobre el procesos de ingeniería y modelamiento con aprendizaje computacional.
