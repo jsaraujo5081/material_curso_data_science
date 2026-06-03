@@ -55,4 +55,9 @@
 ### Sprint 9 - Introducción al Aprendizaje Computacional
 *(Tiempo estimado: 5 horas)*
 
-* **S09_Intro_Aprendizaje_Computacional_Sesiones**: Caso de estudio para la creación de un modelo que pronostique la existencia de tumores malignos, para practicar conceptos básicos sobre el procesos de ingeniería y modelamiento con aprendizaje computacional.
+* **S09_Intro_Aprendizaje_Computacional_Sesiones**: Caso de estudio para la creación de un modelo de Árbol de Decisión que pronostique la existencia de tumores malignos, para practicar conceptos básicos sobre el procesos de ingeniería de datos y modelamiento con aprendizaje computacional.
+
+### Sprint 10 - Modelos de Clasificación
+*(Tiempo estimado: 5 horas)*
+
+* **S10_Modelos_Clasificacion_Sesiones**: Caso de estudio para la creación de un modelo de Regresión Logística que pronostique si un lead se volverá cliente, para practicar conceptos sobre codificación de atributos, estandarización de atributos, balanceo de clases objetivo y ajuste de umbrales de clasificación.
