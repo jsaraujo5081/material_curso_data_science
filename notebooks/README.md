@@ -61,3 +61,8 @@
 *(Tiempo estimado: 5 horas)*
 
 * **S10_Modelos_Clasificacion_Sesiones**: Caso de estudio para la creación de un modelo de Regresión Logística que pronostique si un lead se volverá cliente, para practicar conceptos sobre codificación de atributos, estandarización de atributos, balanceo de clases objetivo y ajuste de umbrales de clasificación.
+
+### Sprint 11 - Modelos de Regresión
+*(Tiempo estimado: 6 horas)*
+
+* **S11_Modelos_Regresión_Sesiones**: Caso de estudio para la creación de modelos de Regresión Lineal y KNN que pronostiquen las interacciones de publicaciones de Facebook, para practicar conceptos sobre tratamiento de variables no numéricas, tratamiento de valores atípicos multidimensionales, normalización de atributos, validación cruzada y selección de atributos.
