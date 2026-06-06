@@ -55,14 +55,20 @@
 ### Sprint 9 - Introducción al Aprendizaje Computacional
 *(Tiempo estimado: 5 horas)*
 
-* **S09_Intro_Aprendizaje_Computacional_Sesiones**: Caso de estudio para la creación de un modelo de Árbol de Decisión que pronostique la existencia de tumores malignos, para practicar conceptos básicos sobre el procesos de ingeniería de datos y modelamiento con aprendizaje computacional.
+* **S09_Intro_Aprendizaje_Computacional_Sesiones**: Caso de estudio para la creación de un modelo con Árbol de Decisión que pronostique la existencia de tumores malignos, para practicar conceptos básicos sobre el procesos de ingeniería de datos y modelamiento con aprendizaje computacional.
 
 ### Sprint 10 - Modelos de Clasificación
 *(Tiempo estimado: 5 horas)*
 
-* **S10_Modelos_Clasificacion_Sesiones**: Caso de estudio para la creación de un modelo de Regresión Logística que pronostique si un lead se volverá cliente, para practicar conceptos sobre codificación de atributos, estandarización de atributos, balanceo de clases objetivo y ajuste de umbrales de clasificación.
+* **S10_Modelos_Clasificacion_Sesiones**: Caso de estudio para la creación de un modelo con Regresión Logística que pronostique si un lead se volverá cliente, para practicar conceptos sobre codificación de atributos, estandarización de atributos, balanceo de clases objetivo y ajuste de umbrales de clasificación.
 
 ### Sprint 11 - Modelos de Regresión
 *(Tiempo estimado: 6 horas)*
 
-* **S11_Modelos_Regresión_Sesiones**: Caso de estudio para la creación de modelos de Regresión Lineal y KNN que pronostiquen las interacciones de publicaciones de Facebook, para practicar conceptos sobre tratamiento de variables no numéricas, tratamiento de valores atípicos multidimensionales, normalización de atributos, validación cruzada y selección de atributos.
+* **S11_Modelos_Regresión_Sesiones**: Caso de estudio para la creación de modelos con Regresión Lineal y KNN (Vecinos más Cercanos) que pronostiquen las interacciones de publicaciones de Facebook, para practicar conceptos sobre tratamiento de variables no numéricas, tratamiento de valores atípicos multidimensionales, normalización de atributos, validación cruzada y selección de atributos.
+
+### Sprint 12 - Modelos No Supervisados
+*(Tiempo estimado: 7 horas)*
+
+* **S12_Modelos_No_Supervisados_Sesiones**: Caso de estudio para la creación de modelo con DBSCAN que segmente clientes de local comercial e identifique casos atípicos, para practicar conceptos algoritmos de aprendizaje no supervisado y sus métricas de evaluación.
+* **S12_Modelos_No_Supervisados_Ejercicios**: Ejercicios a realizar de manera autónoma con datos simulados, para comprender el funcionamiento detrás del algoritmo K-Means.
