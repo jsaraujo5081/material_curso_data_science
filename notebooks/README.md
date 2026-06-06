@@ -70,5 +70,10 @@
 ### Sprint 12 - Modelos No Supervisados
 *(Tiempo estimado: 7 horas)*
 
-* **S12_Modelos_No_Supervisados_Sesiones**: Caso de estudio para la creación de modelo con DBSCAN que segmente clientes de local comercial e identifique casos atípicos, para practicar conceptos algoritmos de aprendizaje no supervisado y sus métricas de evaluación.
+* **S12_Modelos_No_Supervisados_Sesiones**: Caso de estudio para la creación de modelo con DBSCAN que segmente clientes de local comercial e identifique casos atípicos, para practicar conceptos sobre algoritmos de aprendizaje no supervisado y sus métricas de evaluación.
 * **S12_Modelos_No_Supervisados_Ejercicios**: Ejercicios a realizar de manera autónoma con datos simulados, para comprender el funcionamiento detrás del algoritmo K-Means.
+
+### Sprint 13 - Lógica Difusa
+*(Tiempo estimado: 4 horas)*
+
+* **S13_Lógica_Difusa_Sesiones**: Caso de estudio para la creación de modelo con Lógica Difusa que pronostique descuentos ante distintos escenarios de compra de tickets de una aerolínea, para practicar conceptos asociados a modelos de razonamiento aproximado.
