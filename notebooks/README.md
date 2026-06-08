@@ -85,3 +85,8 @@
 
 * **S14_Álgebra_Lineal_Sesiones**: Caso de estudio para la creación de modelo con Regresión Lineal que pronostique niveles de contaminación en alimentos refrigerados, para practicar fundamentos de álgebra lineal respecto a transformación de datos con Análisis de Componentes Independientes y creación, entrenamiento y validación de algoritmos.
 * **S14_Álgebra_Lineal_Ejercicios**: Caso de estudio para la creación de modelo con que identifique orígenes de señales de audio, para practicar fundamentos de álgebra lineal respecto a transformación de datos  con Análisis de Componentes Independientes.
+
+### Sprint 15 - Descenso de Gradiente
+*(Tiempo estimado: 4 horas)*
+
+* **S15_Descenso Gradiente_Sesiones**: Caso de estudio para la creación de modelo con GBM de Regresión que pronostique el costo pagado por una aseguradora de salud, para practicar fundamentos de la técnica de descenso de gradiente para la estimación y mejoramiento de modelos de aprendizaje computacional.
