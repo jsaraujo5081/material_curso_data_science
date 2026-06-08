@@ -77,3 +77,11 @@
 *(Tiempo estimado: 4 horas)*
 
 * **S13_Lógica_Difusa_Sesiones**: Caso de estudio para la creación de modelo con Lógica Difusa que pronostique descuentos ante distintos escenarios de compra de tickets de una aerolínea, para practicar conceptos asociados a modelos de razonamiento aproximado.
+
+## Métodos Matemáticos para Aprendizaje Computacional
+
+### Sprint 14 - Álgebra Lineal
+*(Tiempo estimado: 6 horas)*
+
+* **S14_Álgebra_Lineal_Sesiones**: Caso de estudio para la creación de modelo con Regresión Lineal que pronostique niveles de contaminación en alimentos refrigerados, para practicar fundamentos de álgebra lineal respecto a transformación de datos con Análisis de Componentes Independientes y creación, entrenamiento y validación de algoritmos.
+* **S14_Álgebra_Lineal_Ejercicios**: Caso de estudio para la creación de modelo con que identifique orígenes de señales de audio, para practicar fundamentos de álgebra lineal respecto a transformación de datos  con Análisis de Componentes Independientes.
