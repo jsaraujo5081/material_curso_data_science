@@ -90,3 +90,8 @@
 *(Tiempo estimado: 4 horas)*
 
 * **S15_Descenso Gradiente_Sesiones**: Caso de estudio para la creación de modelo con GBM de Regresión que pronostique el costo pagado por una aseguradora de salud, para practicar fundamentos de la técnica de descenso de gradiente para la estimación y mejoramiento de modelos de aprendizaje computacional.
+
+### Sprint 16 - Series Temporales
+*(Tiempo estimado: 5 horas)*
+
+* **S16_Series_Temporales_Sesiones**: Caso de estudio para la creación de modelo con Regresión Lineal y Bosque Aleatorio que pronostique las emisiones de CO en una ciudad, para practicar fundamentos den análisis de series temporales y optimización de modelos por ensambles simples.
