@@ -95,3 +95,10 @@
 *(Tiempo estimado: 5 horas)*
 
 * **S16_Series_Temporales_Sesiones**: Caso de estudio para la creación de modelo con Regresión Lineal y Bosque Aleatorio que pronostique las emisiones de CO en una ciudad, para practicar fundamentos den análisis de series temporales y optimización de modelos por ensambles simples.
+
+## Temas Avanzados de Aprendizaje Computacional
+
+### Sprint 17 - Procesamiento de Lenguaje Natural
+*(Tiempo estimado: 6 horas)*
+
+* **S17_Procesamiento_Lenguaje_Natural_Sesiones**: Caso de estudio para la creación de modelo con SVM que pronostique si un comentario en Youtube es Spam o no, para practicar métodos de preparación y codificación de información textual en estructuras no tabulares.
