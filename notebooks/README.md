@@ -102,3 +102,9 @@
 *(Tiempo estimado: 6 horas)*
 
 * **S17_Procesamiento_Lenguaje_Natural_Sesiones**: Caso de estudio para la creación de modelo con SVM que pronostique si un comentario en Youtube es Spam o no, para practicar métodos de preparación y codificación de información textual en estructuras no tabulares.
+
+### Sprint 18 - Redes Neuronales
+*(Tiempo estimado: 8 horas)*
+
+* **S18_Redes_Neuronales_Sesiones**: Caso de estudio para la creación de modelo con Redes Neuronales que pronostique el sentimiento expresado por personas en señales de audio, para practicar conceptos de tratamiento de datos no estructurados, y diseño y configuración de capas densas y convolucionales.
+* **S18_Redes_Neuronales_Ejercicios**: Continuación del caso para pronosticar sentimientos de señales de audio, para practicar técnicas de aumento de datos y estudiar funcionamiento interno de redes neuronales.
