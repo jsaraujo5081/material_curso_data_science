@@ -101,7 +101,7 @@
 ### Sprint 17 - Procesamiento de Lenguaje Natural
 *(Tiempo estimado: 6 horas)*
 
-* **S17_Procesamiento_Lenguaje_Natural_Sesiones**: Caso de estudio para la creación de modelo con SVM que pronostique si un comentario en Youtube es Spam o no, para practicar métodos de preparación y codificación de información textual en estructuras no tabulares.
+* **S17_Procesamiento_Lenguaje_Natural_Sesiones**: Caso de estudio para la creación de modelo con SVM que pronostique si un comentario en Youtube es Spam o no, para practicar métodos de preparación y codificación de información textual en estructuras no tabulares, incuyendo la red BERT.
 
 ### Sprint 18 - Redes Neuronales
 *(Tiempo estimado: 8 horas)*
