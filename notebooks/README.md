@@ -6,7 +6,7 @@
 *(Tiempo estimado: 6 horas)*
 
 * **S01_Python_Basico_I_Sesiones**: Ejercicios a realizar de manera guiada sobre manejo de variables, gestión de errores, manipulación de cadenas de texto y manejo de listas.
-* **S01_Python_Basico_I_Ejercicios**: Ejercicios adicionales para ser resueltos de manera autónoma, a fin de alcanzar mayor destreza y seguridad sobre la sintaxis del lenguaje de programación.
+* **S01_Python_Basico_I_Ejercicios**: Ejercicios adicionales para ser resueltos de manera autónoma, a fin de alcanzar mayor destreza y seguridad sobre la sintaxis del lenguaje de programación Python.
 
 ### Sprint 2 - Python Básico II 
 *(Tiempo estimado: 7 horas)*
