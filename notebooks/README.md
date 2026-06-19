@@ -108,3 +108,9 @@
 
 * **S18_Redes_Neuronales_Sesiones**: Caso de estudio para la creación de modelo con Redes Neuronales que pronostique el sentimiento expresado por personas en señales de audio, para practicar conceptos de tratamiento de datos no estructurados, y diseño y configuración de capas densas y convolucionales.
 * **S18_Redes_Neuronales_Ejercicios**: Continuación del caso para pronosticar sentimientos de señales de audio, para practicar técnicas de aumento de datos y estudiar funcionamiento interno de redes neuronales.
+
+### Sprint 19 - Aprendizaje por Refuerzo
+*(Tiempo estimado: 6 horas)*
+
+* **S19_Aprendizaje_Refuerzo_Sesiones**: Caso de estudio para la creación de modelo con Q-Learning que pronostique una ruta óptima en un entorno de una ciudad simplificada, para comprender los fundamentos asociados al aprendizaje por refuerzo y a la creación de clases.
+* **S19_Aprendizaje_Refuerzo_Ejercicios**: Continuación del caso para pronosticar una ruta óptima en un entorno de una ciudad simplificada, para aprender sobre el algoritmo de Redes Q Profundas en el modelamiento de aprendizaje por refuerzo.
