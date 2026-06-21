@@ -33,9 +33,10 @@
 * **S05_Analisis_Exploratorio_Ejercicios**: Ejercicios adicionales para una mayor comprensión de teoría estadística vinculada a Ley de los grandes números, Teorema del límite central y pruebas de hipótesis.
 
 ### Sprint 6 - Repaso de Fundamentos de Python, Pandas y EDA
-*(Tiempo estimado: 3 horas)*
+*(Tiempo estimado: 5 horas)*
 
 * **S06_Repaso_Fundamentos_Sesiones**: Caso de estudio sobre ventas a nivel mundial de videojuegos, para practicar habilidades en manejo de sintaxis del lenguaje de programación, manipulación de datos y análisis exploratorio de datos.
+* **S06_Repaso_Fundamentos_Ejercicios**: Caso de estudio sobre rendimiento de empleados en un call-center, para practicar habilidades en la realización de pruebas A/B mediante inferencia estadística y test de hipótesis.
 
 ## Herramientas Complementarias para Ciencia de Datos
 
