@@ -35,7 +35,7 @@
 ### Sprint 6 - Repaso de Fundamentos de Python, Pandas y EDA
 *(Tiempo estimado: 3 horas)*
 
-* **S06_Repaso_Fundamentos_Sesiones**: Caso de estudio sobre ventas a nivel mundial de videojuegos, para practicar habilidades en manejo de sintaxis del legunaje de programación, manipulación de datos y análisis exploratorio de datos.
+* **S06_Repaso_Fundamentos_Sesiones**: Caso de estudio sobre ventas a nivel mundial de videojuegos, para practicar habilidades en manejo de sintaxis del lenguaje de programación, manipulación de datos y análisis exploratorio de datos.
 
 ## Herramientas Complementarias para Ciencia de Datos
 
@@ -48,7 +48,7 @@
 *(Tiempo estimado: 7 horas)*
 
 * **S08_Bases_Datos_SQL_Sesiones**: Ejercicios a realizar de manera guiada sobre creación, manejo y consulta en bases de datos mediante lenguaje SQL.
-* **S08_Bases_Datos_SQL_Ejercicios**: Caso de estudio sobre adquisición y retención de suscriptores en aplicación de servicio de musica vía streaming, para practicar habilidades en manejo de sintaxis del legunaje SQL, y estudiar embudos de entidades en negocios.
+* **S08_Bases_Datos_SQL_Ejercicios**: Caso de estudio sobre adquisición y retención de suscriptores en aplicación de servicio de musica vía streaming, para practicar habilidades en manejo de sintaxis del lenguaje SQL, y estudiar embudos de entidades en negocios.
 
 ## Fundamentos del Aprendizaje Computacional
 
@@ -83,8 +83,8 @@
 ### Sprint 14 - Álgebra Lineal
 *(Tiempo estimado: 6 horas)*
 
-* **S14_Álgebra_Lineal_Sesiones**: Caso de estudio para la creación de modelo con Regresión Lineal que pronostique niveles de contaminación en alimentos refrigerados, para practicar fundamentos de álgebra lineal respecto a transformación de datos con Análisis de Componentes Independientes y creación, entrenamiento y validación de algoritmos.
-* **S14_Álgebra_Lineal_Ejercicios**: Caso de estudio para la creación de modelo con que identifique orígenes de señales de audio, para practicar fundamentos de álgebra lineal respecto a transformación de datos  con Análisis de Componentes Independientes.
+* **S14_Álgebra_Lineal_Sesiones**: Caso de estudio para la creación de modelo con Regresión Lineal que pronostique niveles de contaminación en alimentos refrigerados, para practicar fundamentos de álgebra lineal respecto a transformación de datos con PCA y creación, entrenamiento y validación de algoritmos.
+* **S14_Álgebra_Lineal_Ejercicios**: Caso de estudio para la creación de modelo con que identifique orígenes de señales de audio, para practicar fundamentos de álgebra lineal respecto a transformación de datos con ICA.
 
 ### Sprint 15 - Descenso de Gradiente
 *(Tiempo estimado: 4 horas)*
