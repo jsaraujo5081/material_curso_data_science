@@ -11,7 +11,7 @@ El repositorio ha sido desarrollado a partir de mi experiencia dictando talleres
 
 * En el directorio **notebooks** se encuentran Jupyter Notebooks (*.pynb*) organizados por secciones y capítulos (Ver *README* del directorio). En cada uno de estos archivos es posible encontrar casos aplicados a situaciones reales, o ejercicios enfocados en el desarrollo de capacidades para programación y ciencia de datos.   
     
-* En el directorio **datasets** se encuentran todos los ficheros (*.csv*, *.xlsx*, *.txt*) a utilizar en el desarrollo de los capitulos y sus correspondientes notebooks. Esta información ha sido debidamente procesada para qeu su uso sea público y por tanto pueda emplearse libremente más allá de lo descrito en las temáticas aquí tratadas. 
+* En el directorio **datasets** se encuentran todos los ficheros (*.csv*, *.xlsx*, *.txt*) a utilizar en el desarrollo de los capitulos y sus correspondientes notebooks. Esta información ha sido debidamente procesada para que su uso sea público y por tanto pueda emplearse libremente más allá de lo descrito en las temáticas aquí tratadas. 
 
 * En el directorio **complementary_files** se encuentran archivos diversos que sirven de insumo para las explicaciones y demás contenido de los notebooks. Es por tanto una carpeta de material auxiliar que por si solo no aporta ningún valor agregado.
 
