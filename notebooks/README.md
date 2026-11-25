@@ -1,67 +1,58 @@
 # Contenido del Directorio Notebooks
 
-## Fundamentos de Python y Análisis de Datos
+## Fundamentos de Programación con Python
 
-### Sprint 1 - Python Básico I
+### Capitulo 1 - Variables, Excepciones y Listas
 *(Tiempo estimado: 6 horas)*
 
-* **S01_Python_Basico_I_Sesiones**: Ejercicios a realizar de manera guiada sobre manejo de variables, gestión de errores, manipulación de cadenas de texto y manejo de listas.
-* **S01_Python_Basico_I_Ejercicios**: Ejercicios adicionales para ser resueltos de manera autónoma, a fin de alcanzar mayor destreza y seguridad sobre la sintaxis del lenguaje de programación Python.
+* **C01_Variables_Excepciones_Listas**: Ejercicios a realizar de manera guiada sobre manejo de variables, gestión de errores, manipulación de cadenas de texto y manejo de listas.
+* **C01_Variables_Excepciones_Listas_Ej**: Ejercicios adicionales para ser resueltos de manera autónoma, a fin de alcanzar mayor destreza y seguridad sobre la sintaxis del lenguaje de programación Python.
 
-### Sprint 2 - Python Básico II 
+### Capítulo 2 - Diccionarios y Estructuras Lógicas
 *(Tiempo estimado: 7 horas)*
 
-* **S02_Python_Basico_II_Sesiones**: Ejercicios a realizar de manera guiada sobre manejo de diccionarios, creación de funciones, uso de bucles y uso de condicionales.
-* **S02_Python_Basico_II_Ejercicios**: Ejercicios adicionales para ser resueltos de manera autónoma, a fin de alcanzar mayor destreza y seguridad sobre la sintaxis del lenguaje de programación.
+* **C02_Diccionarios_Estructuras_Logicas**: Ejercicios a realizar de manera guiada sobre manejo de diccionarios, creación de funciones, uso de bucles y uso de condicionales.
+* **C02_Diccionarios_Estructuras_Logicas_Ej**: Ejercicios adicionales para ser resueltos de manera autónoma, a fin de alcanzar mayor destreza y seguridad sobre la sintaxis del lenguaje de programación.
 
-### Sprint 3 - Manipulación de Datos I
+### Capítulo 3 - Introducción a Pandas
 *(Tiempo estimado: 7 horas)*
 
-* **S03_Manipulacion_Datos_I_Sesiones**: Caso de estudio sobre el ranking de selecciones masculinas de la FIFA, para practicar funciones y métodos de manipulación de datos con Pandas.
-* **S03_Manipulacion_Datos_I_Ejercicios**: Ejercicios adicionales sobre datos de comercialización de vehículos, a fin de repasar funciones y métodos de Pandas.
+* **C03_Intro_Pandas**: Caso de estudio sobre el ranking de selecciones masculinas de la FIFA, para practicar funciones y métodos de manipulación de datos con Pandas.
+* **C03_Intro_Pandas_Ej**: Ejercicios adicionales sobre datos de comercialización de vehículos, a fin de repasar funciones y métodos de Pandas.
 
-### Sprint 4 - Manipulación de Datos II
+## Preparación y Análisis de Datos
+
+### Capítulo 4 - Manipulación y Visualización de Datos
 *(Tiempo estimado: 7 horas)*
 
-* **S04_Manipulacion_Datos_II_Sesiones**: Caso de estudio sobre ventas de un operador turístico, para practicar funciones y métodos de manipulación de datos con Pandas y visualizaciones con Matplotlib.
-* **S04_Manipulacion_Datos_II_Ejercicios**: Ejercicios adicionales sobre datos simulados para repasar funciones y métodos de Pandas y Matplotlib.
+* **C04_Manipulacion_Visualizacion**: Caso de estudio sobre ventas de un operador turístico, para practicar funciones y métodos de manipulación de datos con Pandas y visualizaciones con Matplotlib.
+* **C04_Manipulacion_Visualizacion_Ej**: Ejercicios adicionales sobre datos simulados para repasar funciones y métodos de Pandas y Matplotlib.
 
-### Sprint 5 - Análisis Exploratorio de Datos
-*(Tiempo estimado: 8 horas)*
+### Capítulo 5 - Exploración de Datos con Exploración Estadística
+*(Tiempo estimado: 6 horas)*
 
-* **S05_Analisis_Exploratorio_Sesiones**: Caso de estudio sobre indicadores macoeconómicos por país provistos por el Banco Mundial, para practicar conceptos estadísticos asociados a descripción, inferencia y visualización de datos.
-* **S05_Analisis_Exploratorio_Ejercicios**: Ejercicios adicionales para una mayor comprensión de teoría estadística vinculada a Ley de los grandes números, Teorema del límite central y pruebas de hipótesis.
+* **C05_EDA_Descripcion_Estadistica**: Caso de estudio sobre indicadores macoeconómicos por país provistos por el Banco Mundial, para practicar conceptos estadísticos asociados a descripción, inferencia y visualización de datos.
+* **C05_EDA_Descripcion_Estadistica_Ej**: Ejercicios adicionales para una mayor comprensión de teoría estadística vinculada a Ley de los grandes números, Teorema del límite central y pruebas de hipótesis.
 
-### Sprint 6 - Repaso de Fundamentos de Python, Pandas y EDA
-*(Tiempo estimado: 5 horas)*
+### Capítulo 6 - Exploración de Datos con Inferencia Estadística
+*(Tiempo estimado: 6 horas)*
 
-* **S06_Repaso_Fundamentos_Sesiones**: Caso de estudio sobre ventas a nivel mundial de videojuegos, para practicar habilidades en manejo de sintaxis del lenguaje de programación, manipulación de datos y análisis exploratorio de datos.
-* **S06_Repaso_Fundamentos_Ejercicios**: Caso de estudio sobre rendimiento de empleados en un call-center, para practicar habilidades en la realización de pruebas A/B mediante inferencia estadística y test de hipótesis.
+* **C06_EDA_Inferencia_Estadistica**: Caso de estudio sobre ventas a nivel mundial de videojuegos, para practicar habilidades en manejo de sintaxis del lenguaje de programación, manipulación de datos y análisis exploratorio de datos.
+* **C06_EDA_Inferencia_Estadistica_Ej**: Caso de estudio sobre rendimiento de empleados en un call-center, para practicar habilidades en la realización de pruebas A/B mediante inferencia estadística y test de hipótesis.
 
-## Herramientas Complementarias para Ciencia de Datos
+## Fundamentos del Modelamiento Predictivo
 
-### Sprint 7 - Terminales y Servicios Web
-*(Tiempo estimado: 4 horas)*
-
-* **S07_Terminales_Servicios_Web_Sesiones**: Ejercicios a realizar de manera guiada sobre uso de terminales de comandos, ejecución de programas en Python y desarrollo de aplicaciones web.
-
-### Sprint 8 - Bases de Datos y SQL
+### Capitulo 7 - Introducción al Aprendizaje Computacional
 *(Tiempo estimado: 7 horas)*
 
-* **S08_Bases_Datos_SQL_Sesiones**: Ejercicios a realizar de manera guiada sobre creación, manejo y consulta en bases de datos mediante lenguaje SQL.
-* **S08_Bases_Datos_SQL_Ejercicios**: Caso de estudio sobre adquisición y retención de suscriptores en aplicación de servicio de musica vía streaming, para practicar habilidades en manejo de sintaxis del lenguaje SQL, y estudiar embudos de entidades en negocios.
+* **C07_Intro_Aprendizaje_Computacional**: Caso de estudio para la creación de un modelo con Árbol de Decisión que pronostique la existencia de tumores malignos, para practicar conceptos básicos sobre el procesos de ingeniería de datos y modelamiento con aprendizaje computacional.
+* **C07_Intro_Aprendizaje_Computacional_Ej**: Caso de estudio para la creación de un modelo con Árbol de Decisión que pronostique si se renovará el contrato de deportistas en la NBA, para comprender sobre el funcionamiento del algoritmo de árbol de decisión, la definición de sus nodos y los criterios de similitud que se utilizan.
 
-## Fundamentos del Aprendizaje Computacional
+### Capítulo 8 - Modelos de Clasificación
+*(Tiempo estimado: 6 horas)*
 
-### Sprint 9 - Introducción al Aprendizaje Computacional
-*(Tiempo estimado: 5 horas)*
-
-* **S09_Intro_Aprendizaje_Computacional_Sesiones**: Caso de estudio para la creación de un modelo con Árbol de Decisión que pronostique la existencia de tumores malignos, para practicar conceptos básicos sobre el procesos de ingeniería de datos y modelamiento con aprendizaje computacional.
-
-### Sprint 10 - Modelos de Clasificación
-*(Tiempo estimado: 5 horas)*
-
-* **S10_Modelos_Clasificacion_Sesiones**: Caso de estudio para la creación de un modelo con Regresión Logística que pronostique si un lead se volverá cliente, para practicar conceptos sobre codificación de atributos, estandarización de atributos, balanceo de clases objetivo y ajuste de umbrales de clasificación.
+* **C08_Modelos_Clasificacion**: Caso de estudio para la creación de un modelo con Regresión Logística que pronostique si un lead se volverá cliente, para practicar conceptos sobre codificación de atributos, estandarización de atributos, balanceo de clases objetivo y ajuste de umbrales de clasificación.
+* **C08_Modelos_Clasificacion_Ej**: Caso de estudio para la creación de modelos de línea base (*dummy*) y métricas asociadas que permitan establecer criterios de cordura en la elaboración de modelos predictivos de clasificación. 
 
 ### Sprint 11 - Modelos de Regresión
 *(Tiempo estimado: 6 horas)*
@@ -115,3 +106,16 @@
 
 * **S19_Aprendizaje_Refuerzo_Sesiones**: Caso de estudio para la creación de modelo con Q-Learning que pronostique una ruta óptima en un entorno de una ciudad simplificada, para comprender los fundamentos asociados al aprendizaje por refuerzo y a la creación de clases.
 * **S19_Aprendizaje_Refuerzo_Ejercicios**: Continuación del caso para pronosticar una ruta óptima en un entorno de una ciudad simplificada, para aprender sobre el algoritmo de Redes Q Profundas en el modelamiento de aprendizaje por refuerzo.
+
+## Herramientas Complementarias para Ciencia de Datos
+
+### Sprint 7 - Terminales y Servicios Web
+*(Tiempo estimado: 4 horas)*
+
+* **S07_Terminales_Servicios_Web_Sesiones**: Ejercicios a realizar de manera guiada sobre uso de terminales de comandos, ejecución de programas en Python y desarrollo de aplicaciones web.
+
+### Sprint 8 - Bases de Datos y SQL
+*(Tiempo estimado: 7 horas)*
+
+* **S08_Bases_Datos_SQL_Sesiones**: Ejercicios a realizar de manera guiada sobre creación, manejo y consulta en bases de datos mediante lenguaje SQL.
+* **S08_Bases_Datos_SQL_Ejercicios**: Caso de estudio sobre adquisición y retención de suscriptores en aplicación de servicio de musica vía streaming, para practicar habilidades en manejo de sintaxis del lenguaje SQL, y estudiar embudos de entidades en negocios.
